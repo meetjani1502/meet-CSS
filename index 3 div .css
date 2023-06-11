@@ -1,0 +1,30 @@
+h1{
+    background-color: palevioletred;
+    margin: 20px;
+    padding: 30px;
+    border: dotted palevioletred;
+}
+h2{
+    background-color: palevioletred;
+    margin: 20px;
+    padding: 30px;
+    border: dotted palevioletred;
+    background-image: url("gif1.gif");
+    background-repeat: no-repeat;
+    background-image: url("gif1.gif");
+}
+p{
+    background-color: darkslateblue;
+    padding: 45px;
+    border: double;
+}
+body{
+    background-color: cornflowerblue;
+    color: red;
+}
+.class1{
+    background-color: aqua;
+}
+div{
+    color: coral;
+}

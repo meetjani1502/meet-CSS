@@ -1,0 +1,75 @@
+.main-body{
+ height: 85vh;
+ background-color: #b8cf8f;
+}
+.navigation{
+ width: 100%;
+ background-color: #81a14b;
+ height: 90px;
+}
+.logo-image{
+ margin:10px 0px 5px 250px;
+ width: 4vw;
+ height: auto;
+}
+#logo-text{
+ font-size: 30px;
+ color: white;
+ font-weight: bold;
+ margin-top: 20px;
+}
+.nav1{
+ margin: 10px 250px;
+}
+.link-text{
+ color: #fff;
+ text-decoration: none;
+ font-size: 23px;
+ margin:auto 50px;
+}
+.link-text:hover{
+ color: yellow;
+}
+.active{
+ border-bottom: 3px solid yellow;
+}
+.girl{
+ width: 92vw;
+ height: 80vh;
+ margin: 7vh 4vw 3vh;
+ padding-top: 16vh;
+ padding-left: 5vw;
+ background-size: cover;
+ background-image: url("slider-bg.jpg");
+}
+.left{
+ width:46%;
+ height: 500px;
+}
+.head1{
+ color: yellow;
+}
+.head2{
+ color: #fff;
+ font-size: 70px;
+ font-weight: bold;
+}
+.para{
+ color: #fff;
+ font-size: 22px;
+ margin: 40px auto;
+}
+.btn{
+ font-size: 22px;
+ width: 12vw;
+ height: 60px;
+ padding-top: 12px;
+ margin-right: 20px;
+ border-radius: 0;
+}
+.button1{
+ background-color: yellow;
+}
+.button2{
+ background-color: white;
+} 

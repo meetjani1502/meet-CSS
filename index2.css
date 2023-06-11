@@ -1,0 +1,44 @@
+body{
+    background-color:#ffffff;
+    color: red;
+}
+p{
+    border: groove;
+    color: black;
+    text-align: right;
+     margin: 35px 20px; 
+}
+h1{
+    background-color: brown;
+    padding: 20px;
+    text-transform: uppercase;
+    word-spacing: 45px;
+    text-decoration: none;
+    letter-spacing: 21px;
+    direction: rtl;
+    word-spacing: 120px;
+}
+p{
+    background-color: brown;
+    padding: 30px;
+}
+img{
+    float: right;
+}
+a{
+    color: cornflowerblue;
+    background-color: blueviolet;
+}
+a:visited{
+    color: aquamarine;
+}
+a:hover{
+    color: aqua;
+}
+a:active{
+    color: bisque;
+}
+/* when 10px is indicated margin top size
+20px is indicated margin bottom size
+30px is indicated margin right size 
+40px is indicated margin left size*/

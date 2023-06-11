@@ -1,0 +1,18 @@
+p{
+    border: 4px dotted rebeccapurple;
+    color: peru;
+    max-width: 500px;
+    min-width: 40px ;
+    margin: 0px auto;
+
+    /* margin(0px auto):its meand that remove the content into the center */
+}
+body{
+    background-color: aquamarine;
+}
+h1{
+    color: brown;
+    text-align: center;
+    position: relative;
+    bottom: 20px;
+}

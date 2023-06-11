@@ -1,0 +1,17 @@
+.box{
+    height: 45px;
+    width: 50px;
+}
+.red{
+    background-color: chocolate;
+    float: left;
+}
+.yellow{
+    background-color: blanchedalmond;
+    float: left;
+    margin-left: 10px;
+}
+.pink{
+    background-color: brown;
+    float: left;
+}
